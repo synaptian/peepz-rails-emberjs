@@ -40,4 +40,5 @@ group :development, :test do
   gem 'rubocop'
   gem 'shoulda-matchers'
   gem 'spring-commands-rspec'
+  gem 'sqlite3'
 end
